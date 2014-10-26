@@ -1,4 +1,4 @@
 Smoothieboard-glcd-adapter v2
 =============================
-![](3DTop.PNG)
-![](3DBottom.PNG)
+![](3DTop.png)
+![](3DBottom.png)
