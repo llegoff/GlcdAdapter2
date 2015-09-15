@@ -8,34 +8,34 @@
 </settings>
 <grid distance="0.1" unitdist="inch" unit="inch" style="lines" multiple="1" display="no" altdistance="0.01" altunitdist="inch" altunit="inch"/>
 <layers>
-<layer number="1" name="Top" color="4" fill="1" visible="no" active="no"/>
-<layer number="2" name="Route2" color="2" fill="1" visible="no" active="no"/>
-<layer number="3" name="Route3" color="4" fill="3" visible="no" active="no"/>
-<layer number="4" name="Route4" color="1" fill="4" visible="no" active="no"/>
-<layer number="5" name="Route5" color="4" fill="4" visible="no" active="no"/>
-<layer number="6" name="Route6" color="1" fill="8" visible="no" active="no"/>
-<layer number="7" name="Route7" color="4" fill="8" visible="no" active="no"/>
-<layer number="8" name="Route8" color="1" fill="2" visible="no" active="no"/>
-<layer number="9" name="Route9" color="4" fill="2" visible="no" active="no"/>
-<layer number="10" name="Route10" color="1" fill="7" visible="no" active="no"/>
-<layer number="11" name="Route11" color="4" fill="7" visible="no" active="no"/>
-<layer number="12" name="Route12" color="1" fill="5" visible="no" active="no"/>
-<layer number="13" name="Route13" color="4" fill="5" visible="no" active="no"/>
-<layer number="14" name="Route14" color="1" fill="6" visible="no" active="no"/>
-<layer number="15" name="Route15" color="5" fill="1" visible="no" active="no"/>
-<layer number="16" name="Bottom" color="1" fill="1" visible="no" active="no"/>
-<layer number="17" name="Pads" color="2" fill="1" visible="no" active="no"/>
-<layer number="18" name="Vias" color="6" fill="1" visible="no" active="no"/>
-<layer number="19" name="Unrouted" color="6" fill="1" visible="no" active="no"/>
-<layer number="20" name="Dimension" color="15" fill="1" visible="no" active="no"/>
-<layer number="21" name="tPlace" color="7" fill="1" visible="no" active="no"/>
-<layer number="22" name="bPlace" color="7" fill="1" visible="no" active="no"/>
-<layer number="23" name="tOrigins" color="15" fill="1" visible="no" active="no"/>
-<layer number="24" name="bOrigins" color="15" fill="1" visible="no" active="no"/>
-<layer number="25" name="tNames" color="7" fill="1" visible="no" active="no"/>
-<layer number="26" name="bNames" color="7" fill="1" visible="no" active="no"/>
-<layer number="27" name="tValues" color="7" fill="1" visible="no" active="no"/>
-<layer number="28" name="bValues" color="7" fill="1" visible="no" active="no"/>
+<layer number="1" name="Top" color="4" fill="1" visible="yes" active="no"/>
+<layer number="2" name="Route2" color="2" fill="1" visible="yes" active="no"/>
+<layer number="3" name="Route3" color="4" fill="3" visible="yes" active="no"/>
+<layer number="4" name="Route4" color="1" fill="4" visible="yes" active="no"/>
+<layer number="5" name="Route5" color="4" fill="4" visible="yes" active="no"/>
+<layer number="6" name="Route6" color="1" fill="8" visible="yes" active="no"/>
+<layer number="7" name="Route7" color="4" fill="8" visible="yes" active="no"/>
+<layer number="8" name="Route8" color="1" fill="2" visible="yes" active="no"/>
+<layer number="9" name="Route9" color="4" fill="2" visible="yes" active="no"/>
+<layer number="10" name="Route10" color="1" fill="7" visible="yes" active="no"/>
+<layer number="11" name="Route11" color="4" fill="7" visible="yes" active="no"/>
+<layer number="12" name="Route12" color="1" fill="5" visible="yes" active="no"/>
+<layer number="13" name="Route13" color="4" fill="5" visible="yes" active="no"/>
+<layer number="14" name="Route14" color="1" fill="6" visible="yes" active="no"/>
+<layer number="15" name="Route15" color="5" fill="1" visible="yes" active="no"/>
+<layer number="16" name="Bottom" color="1" fill="1" visible="yes" active="no"/>
+<layer number="17" name="Pads" color="2" fill="1" visible="yes" active="no"/>
+<layer number="18" name="Vias" color="6" fill="1" visible="yes" active="no"/>
+<layer number="19" name="Unrouted" color="6" fill="1" visible="yes" active="no"/>
+<layer number="20" name="Dimension" color="15" fill="1" visible="yes" active="no"/>
+<layer number="21" name="tPlace" color="7" fill="1" visible="yes" active="no"/>
+<layer number="22" name="bPlace" color="7" fill="1" visible="yes" active="no"/>
+<layer number="23" name="tOrigins" color="15" fill="1" visible="yes" active="no"/>
+<layer number="24" name="bOrigins" color="15" fill="1" visible="yes" active="no"/>
+<layer number="25" name="tNames" color="7" fill="1" visible="yes" active="no"/>
+<layer number="26" name="bNames" color="7" fill="1" visible="yes" active="no"/>
+<layer number="27" name="tValues" color="7" fill="1" visible="yes" active="no"/>
+<layer number="28" name="bValues" color="7" fill="1" visible="yes" active="no"/>
 <layer number="29" name="tStop" color="7" fill="3" visible="no" active="no"/>
 <layer number="30" name="bStop" color="7" fill="6" visible="no" active="no"/>
 <layer number="31" name="tCream" color="7" fill="4" visible="no" active="no"/>
@@ -44,8 +44,8 @@
 <layer number="34" name="bFinish" color="6" fill="6" visible="no" active="no"/>
 <layer number="35" name="tGlue" color="7" fill="4" visible="no" active="no"/>
 <layer number="36" name="bGlue" color="7" fill="5" visible="no" active="no"/>
-<layer number="37" name="tTest" color="7" fill="1" visible="no" active="no"/>
-<layer number="38" name="bTest" color="7" fill="1" visible="no" active="no"/>
+<layer number="37" name="tTest" color="7" fill="1" visible="yes" active="no"/>
+<layer number="38" name="bTest" color="7" fill="1" visible="yes" active="no"/>
 <layer number="39" name="tKeepout" color="4" fill="11" visible="no" active="no"/>
 <layer number="40" name="bKeepout" color="1" fill="11" visible="no" active="no"/>
 <layer number="41" name="tRestrict" color="4" fill="10" visible="no" active="no"/>
@@ -53,16 +53,16 @@
 <layer number="43" name="vRestrict" color="2" fill="10" visible="no" active="no"/>
 <layer number="44" name="Drills" color="7" fill="1" visible="no" active="no"/>
 <layer number="45" name="Holes" color="7" fill="1" visible="no" active="no"/>
-<layer number="46" name="Milling" color="3" fill="1" visible="no" active="no"/>
-<layer number="47" name="Measures" color="7" fill="1" visible="no" active="no"/>
-<layer number="48" name="Document" color="7" fill="1" visible="no" active="no"/>
-<layer number="49" name="Reference" color="7" fill="1" visible="no" active="no"/>
-<layer number="50" name="dxf" color="7" fill="1" visible="no" active="no"/>
-<layer number="51" name="tDocu" color="7" fill="1" visible="no" active="no"/>
-<layer number="52" name="bDocu" color="7" fill="1" visible="no" active="no"/>
-<layer number="53" name="tGND_GNDA" color="7" fill="9" visible="no" active="no"/>
-<layer number="54" name="bGND_GNDA" color="1" fill="9" visible="no" active="no"/>
-<layer number="56" name="wert" color="7" fill="1" visible="no" active="no"/>
+<layer number="46" name="Milling" color="3" fill="1" visible="yes" active="no"/>
+<layer number="47" name="Measures" color="7" fill="1" visible="yes" active="no"/>
+<layer number="48" name="Document" color="7" fill="1" visible="yes" active="no"/>
+<layer number="49" name="Reference" color="7" fill="1" visible="yes" active="no"/>
+<layer number="50" name="dxf" color="7" fill="1" visible="yes" active="no"/>
+<layer number="51" name="tDocu" color="7" fill="1" visible="yes" active="no"/>
+<layer number="52" name="bDocu" color="7" fill="1" visible="yes" active="no"/>
+<layer number="53" name="tGND_GNDA" color="7" fill="9" visible="yes" active="no"/>
+<layer number="54" name="bGND_GNDA" color="1" fill="9" visible="yes" active="no"/>
+<layer number="56" name="wert" color="7" fill="1" visible="yes" active="no"/>
 <layer number="91" name="Nets" color="2" fill="1" visible="yes" active="yes"/>
 <layer number="92" name="Busses" color="1" fill="1" visible="yes" active="yes"/>
 <layer number="93" name="Pins" color="2" fill="1" visible="no" active="yes"/>
@@ -18944,7 +18944,6 @@ http://www.fairchildsemi.com/ds/LM/LM7805.pdf</description>
 </classes>
 <parts>
 <part name="FRAME2" library="microbuilder" deviceset="FRAME_A3" device=""/>
-<part name="JP1" library="SparkFun" deviceset="M04" device="1X04_NO_SILK"/>
 <part name="JP2" library="SparkFun" deviceset="M03" device="1X03_NO_SILK"/>
 <part name="JP3" library="SparkFun" deviceset="M03" device="1X03_NO_SILK"/>
 <part name="SUPPLY32" library="supply2" deviceset="GND" device=""/>
@@ -18958,26 +18957,31 @@ http://www.fairchildsemi.com/ds/LM/LM7805.pdf</description>
 <part name="SJ3" library="SparkFun" deviceset="SOLDERJUMPER_2WAY" device="S"/>
 <part name="JP7" library="SparkFun" deviceset="M03" device="PTH"/>
 <part name="D1" library="diode" deviceset="1N581*" device="" technology="7-B" value="1N5817"/>
-<part name="JP8" library="SparkFun" deviceset="M03" device="PTH"/>
 <part name="EXP1" library="con-harting-ml" deviceset="ML10" device=""/>
 <part name="EXP2" library="con-harting-ml" deviceset="ML10" device=""/>
 <part name="IC1" library="linear" deviceset="78*" device="TV" technology="05"/>
 <part name="SUPPLY1" library="supply2" deviceset="GND" device=""/>
 <part name="GOLD_ORB_SM1" library="bfl" deviceset="OSHWLOGO" device="_GOLD_ORB_MED" value="OSHWLOGO_GOLD_ORB_MED"/>
+<part name="JP5" library="SparkFun" deviceset="M04" device="1X04_NO_SILK"/>
+<part name="JP9" library="SparkFun" deviceset="M04" device="1X04_NO_SILK"/>
+<part name="SUPPLY2" library="supply2" deviceset="GND" device=""/>
+<part name="JP8" library="SparkFun" deviceset="M03" device="PTH"/>
+<part name="JP1" library="SparkFun" deviceset="M03" device="PTH"/>
+<part name="JP11" library="SparkFun" deviceset="M03" device="PTH"/>
+<part name="JP12" library="SparkFun" deviceset="M03" device="PTH"/>
+<part name="JP13" library="SparkFun" deviceset="M03" device="PTH"/>
 </parts>
 <sheets>
 <sheet>
 <plain>
 <text x="298.45" y="5.08" size="2.1844" layer="94">http://smoothieware.org</text>
 <rectangle x1="342.9" y1="4.318" x2="383.286" y2="8.128" layer="210"/>
-<text x="382.905" y="35.56" size="1.6764" layer="94" rot="R180">by: Arthur Wolf</text>
-<text x="382.905" y="33.655" size="1.6764" layer="94" rot="R180">produced by: Trinity Labs</text>
+<text x="324.485" y="33.02" size="1.6764" layer="91" rot="R180">by: Laurent LE GOFF</text>
 <text x="299.72" y="20.32" size="1.27" layer="94">Licensed under GPL: http://www.gnu.org/licenses/gpl.html</text>
 <text x="299.72" y="22.86" size="1.27" layer="94">Thanks for the support and contributions of the Reprap Community</text>
 </plain>
 <instances>
 <instance part="FRAME2" gate="G$1" x="0" y="0"/>
-<instance part="JP1" gate="G$1" x="22.86" y="241.3" rot="MR180"/>
 <instance part="JP2" gate="G$1" x="63.5" y="238.76" rot="MR180"/>
 <instance part="JP3" gate="G$1" x="63.5" y="228.6" rot="MR180"/>
 <instance part="SUPPLY32" gate="GND" x="76.2" y="220.98"/>
@@ -18991,12 +18995,19 @@ http://www.fairchildsemi.com/ds/LM/LM7805.pdf</description>
 <instance part="SJ3" gate="G$1" x="91.44" y="195.58" rot="R90"/>
 <instance part="JP7" gate="G$1" x="91.44" y="177.8" rot="R90"/>
 <instance part="D1" gate="G$1" x="45.72" y="193.04"/>
-<instance part="JP8" gate="G$1" x="33.02" y="190.5"/>
 <instance part="EXP1" gate="G$1" x="132.08" y="200.66"/>
 <instance part="EXP2" gate="G$1" x="132.08" y="177.8"/>
 <instance part="IC1" gate="A1" x="68.58" y="137.16"/>
 <instance part="SUPPLY1" gate="GND" x="68.58" y="124.46"/>
 <instance part="GOLD_ORB_SM1" gate="G$1" x="109.22" y="231.14"/>
+<instance part="JP5" gate="G$1" x="132.08" y="154.94" rot="MR180"/>
+<instance part="JP9" gate="G$1" x="132.08" y="137.16" rot="MR180"/>
+<instance part="SUPPLY2" gate="GND" x="154.94" y="154.94"/>
+<instance part="JP8" gate="G$1" x="20.32" y="218.44"/>
+<instance part="JP1" gate="G$1" x="27.94" y="177.8" rot="R180"/>
+<instance part="JP11" gate="G$1" x="27.94" y="165.1" rot="R180"/>
+<instance part="JP12" gate="G$1" x="15.24" y="177.8" rot="R180"/>
+<instance part="JP13" gate="G$1" x="15.24" y="165.1" rot="R180"/>
 </instances>
 <busses>
 </busses>
@@ -19035,6 +19046,11 @@ http://www.fairchildsemi.com/ds/LM/LM7805.pdf</description>
 <pinref part="SUPPLY1" gate="GND" pin="GND"/>
 <wire x1="68.58" y1="129.54" x2="68.58" y2="127" width="0.1524" layer="91"/>
 </segment>
+<segment>
+<pinref part="JP5" gate="G$1" pin="1"/>
+<pinref part="SUPPLY2" gate="GND" pin="GND"/>
+<wire x1="154.94" y1="157.48" x2="137.16" y2="157.48" width="0.1524" layer="91"/>
+</segment>
 </net>
 <net name="SD_MOSI" class="0">
 <segment>
@@ -19046,6 +19062,11 @@ http://www.fairchildsemi.com/ds/LM/LM7805.pdf</description>
 <pinref part="EXP2" gate="G$1" pin="5"/>
 <wire x1="139.7" y1="177.8" x2="142.24" y2="177.8" width="0.1524" layer="91"/>
 <label x="142.24" y="177.8" size="1.778" layer="95"/>
+</segment>
+<segment>
+<pinref part="JP5" gate="G$1" pin="2"/>
+<wire x1="137.16" y1="154.94" x2="142.24" y2="154.94" width="0.1524" layer="91"/>
+<label x="142.24" y="154.94" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="SD_SCK" class="0">
@@ -19059,6 +19080,11 @@ http://www.fairchildsemi.com/ds/LM/LM7805.pdf</description>
 <wire x1="139.7" y1="182.88" x2="142.24" y2="182.88" width="0.1524" layer="91"/>
 <label x="142.24" y="182.88" size="1.778" layer="95"/>
 </segment>
+<segment>
+<pinref part="JP5" gate="G$1" pin="3"/>
+<wire x1="137.16" y1="152.4" x2="142.24" y2="152.4" width="0.1524" layer="91"/>
+<label x="142.24" y="152.4" size="1.778" layer="95"/>
+</segment>
 </net>
 <net name="SD_CS" class="0">
 <segment>
@@ -19067,9 +19093,14 @@ http://www.fairchildsemi.com/ds/LM/LM7805.pdf</description>
 <label x="142.24" y="180.34" size="1.778" layer="95"/>
 </segment>
 <segment>
-<wire x1="45.72" y1="236.22" x2="27.94" y2="236.22" width="0.1524" layer="91"/>
-<pinref part="JP1" gate="G$1" pin="4"/>
-<label x="35.56" y="236.22" size="1.778" layer="95"/>
+<pinref part="JP9" gate="G$1" pin="3"/>
+<wire x1="137.16" y1="134.62" x2="142.24" y2="134.62" width="0.1524" layer="91"/>
+<label x="142.24" y="134.62" size="1.778" layer="95"/>
+</segment>
+<segment>
+<pinref part="JP8" gate="G$1" pin="1"/>
+<wire x1="27.94" y1="215.9" x2="38.1" y2="215.9" width="0.1524" layer="91"/>
+<label x="38.1" y="215.9" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="P3_25" class="0">
@@ -19110,14 +19141,19 @@ http://www.fairchildsemi.com/ds/LM/LM7805.pdf</description>
 </net>
 <net name="SD_CD" class="0">
 <segment>
-<wire x1="27.94" y1="238.76" x2="45.72" y2="238.76" width="0.1524" layer="91"/>
-<label x="35.56" y="238.76" size="1.778" layer="95"/>
-<pinref part="JP1" gate="G$1" pin="3"/>
-</segment>
-<segment>
 <pinref part="EXP2" gate="G$1" pin="4"/>
 <wire x1="124.46" y1="175.26" x2="121.92" y2="175.26" width="0.1524" layer="91"/>
 <label x="114.3" y="175.26" size="1.778" layer="95"/>
+</segment>
+<segment>
+<pinref part="JP5" gate="G$1" pin="4"/>
+<wire x1="137.16" y1="149.86" x2="142.24" y2="149.86" width="0.1524" layer="91"/>
+<label x="142.24" y="149.86" size="1.778" layer="95"/>
+</segment>
+<segment>
+<pinref part="JP8" gate="G$1" pin="2"/>
+<wire x1="27.94" y1="218.44" x2="38.1" y2="218.44" width="0.1524" layer="91"/>
+<label x="38.1" y="218.44" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="P1_22" class="0">
@@ -19213,13 +19249,6 @@ http://www.fairchildsemi.com/ds/LM/LM7805.pdf</description>
 <label x="53.34" y="137.16" size="1.778" layer="95"/>
 </segment>
 </net>
-<net name="N$3" class="0">
-<segment>
-<pinref part="JP8" gate="G$1" pin="3"/>
-<pinref part="D1" gate="G$1" pin="A"/>
-<wire x1="40.64" y1="193.04" x2="43.18" y2="193.04" width="0.1524" layer="91"/>
-</segment>
-</net>
 <net name="5V" class="0">
 <segment>
 <pinref part="D1" gate="G$1" pin="C"/>
@@ -19274,6 +19303,11 @@ http://www.fairchildsemi.com/ds/LM/LM7805.pdf</description>
 <wire x1="124.46" y1="182.88" x2="121.92" y2="182.88" width="0.1524" layer="91"/>
 <label x="114.3" y="182.88" size="1.778" layer="95"/>
 </segment>
+<segment>
+<pinref part="JP9" gate="G$1" pin="2"/>
+<wire x1="137.16" y1="137.16" x2="142.24" y2="137.16" width="0.1524" layer="91"/>
+<label x="142.24" y="137.16" size="1.778" layer="95"/>
+</segment>
 </net>
 <net name="N$5" class="0">
 <segment>
@@ -19299,41 +19333,68 @@ http://www.fairchildsemi.com/ds/LM/LM7805.pdf</description>
 <wire x1="139.7" y1="172.72" x2="142.24" y2="172.72" width="0.1524" layer="91"/>
 </segment>
 </net>
+<net name="3V3" class="0">
+<segment>
+<pinref part="JP9" gate="G$1" pin="1"/>
+<wire x1="137.16" y1="139.7" x2="142.24" y2="139.7" width="0.1524" layer="91"/>
+<label x="142.24" y="139.7" size="1.778" layer="95"/>
+</segment>
+<segment>
+<pinref part="JP17" gate="G$1" pin="2"/>
+<wire x1="91.44" y1="142.24" x2="88.9" y2="142.24" width="0.1524" layer="91"/>
+<label x="86.36" y="142.24" size="1.778" layer="95"/>
+</segment>
+</net>
+<net name="N$1" class="0">
+<segment>
+<pinref part="JP1" gate="G$1" pin="3"/>
+<pinref part="JP12" gate="G$1" pin="3"/>
+<wire x1="20.32" y1="175.26" x2="7.62" y2="175.26" width="0.1524" layer="91"/>
+<wire x1="7.62" y1="175.26" x2="5.08" y2="175.26" width="0.1524" layer="91"/>
+<junction x="7.62" y="175.26"/>
+<wire x1="5.08" y1="175.26" x2="5.08" y2="193.04" width="0.1524" layer="91"/>
+<pinref part="D1" gate="G$1" pin="A"/>
+<wire x1="5.08" y1="193.04" x2="43.18" y2="193.04" width="0.1524" layer="91"/>
+</segment>
+</net>
+<net name="N$2" class="0">
+<segment>
+<pinref part="JP12" gate="G$1" pin="1"/>
+<pinref part="JP1" gate="G$1" pin="1"/>
+<wire x1="7.62" y1="180.34" x2="20.32" y2="180.34" width="0.1524" layer="91"/>
+</segment>
+</net>
+<net name="N$3" class="0">
+<segment>
+<pinref part="JP1" gate="G$1" pin="2"/>
+<pinref part="JP12" gate="G$1" pin="2"/>
+<wire x1="20.32" y1="177.8" x2="7.62" y2="177.8" width="0.1524" layer="91"/>
+</segment>
+</net>
+<net name="N$6" class="0">
+<segment>
+<pinref part="JP11" gate="G$1" pin="1"/>
+<pinref part="JP13" gate="G$1" pin="1"/>
+<wire x1="20.32" y1="167.64" x2="7.62" y2="167.64" width="0.1524" layer="91"/>
+</segment>
+</net>
+<net name="N$7" class="0">
+<segment>
+<pinref part="JP11" gate="G$1" pin="2"/>
+<pinref part="JP13" gate="G$1" pin="2"/>
+<wire x1="20.32" y1="165.1" x2="7.62" y2="165.1" width="0.1524" layer="91"/>
+</segment>
+</net>
+<net name="N$8" class="0">
+<segment>
+<pinref part="JP11" gate="G$1" pin="3"/>
+<pinref part="JP13" gate="G$1" pin="3"/>
+<wire x1="20.32" y1="162.56" x2="7.62" y2="162.56" width="0.1524" layer="91"/>
+</segment>
+</net>
 </nets>
 </sheet>
 </sheets>
-<errors>
-<approved hash="102,1,33.02,160.02,5V,VUSB,,,,"/>
-<approved hash="102,1,248.92,81.28,GND,AGND,,,,"/>
-<approved hash="201,1,33.02,160.02,5V,VUSB\, 5V,,,,"/>
-<approved hash="201,1,248.92,81.28,GND,GND\, AGND,,,,"/>
-<approved hash="208,1,236.22,106.68,3.3V,sup,,,,"/>
-<approved hash="208,1,264.16,109.22,3.3V,sup,,,,"/>
-<approved hash="208,1,45.72,55.88,3.3V,sup,,,,"/>
-<approved hash="208,1,91.44,45.72,3.3V,sup,,,,"/>
-<approved hash="208,1,119.38,45.72,3.3V,sup,,,,"/>
-<approved hash="208,1,58.42,180.34,3.3V,sup,,,,"/>
-<approved hash="208,1,185.42,48.26,3.3V,sup,,,,"/>
-<approved hash="208,1,335.28,238.76,3.3V,sup,,,,"/>
-<approved hash="208,1,30.48,251.46,3.3V,sup,,,,"/>
-<approved hash="208,1,236.22,124.46,3.3V,sup,,,,"/>
-<approved hash="208,1,76.2,246.38,3.3V,sup,,,,"/>
-<approved hash="208,1,368.3,73.66,3.3V,sup,,,,"/>
-<approved hash="208,1,198.12,48.26,3.3V,sup,,,,"/>
-<approved hash="208,1,81.28,220.98,3.3V,sup,,,,"/>
-<approved hash="208,1,20.32,223.52,3.3V,sup,,,,"/>
-<approved hash="208,1,297.18,165.1,3.3V,sup,,,,"/>
-<approved hash="208,1,68.58,182.88,3.3V,sup,,,,"/>
-<approved hash="106,1,25.4,208.28,CTS,,,,,"/>
-<approved hash="106,1,129.54,58.42,JTAG-RTCK,,,,,"/>
-<approved hash="106,1,129.54,66.04,JTAG-TCK,,,,,"/>
-<approved hash="106,1,129.54,73.66,JTAG-TDI,,,,,"/>
-<approved hash="106,1,129.54,76.2,JTAG-TDO,,,,,"/>
-<approved hash="106,1,129.54,71.12,JTAG-TMS,,,,,"/>
-<approved hash="106,1,129.54,68.58,JTAG-TRST,,,,,"/>
-<approved hash="106,1,25.4,198.12,RTS,,,,,"/>
-<approved hash="115,1,193.571,130.071,FRAME2,,,,,"/>
-</errors>
 </schematic>
 </drawing>
 </eagle>
